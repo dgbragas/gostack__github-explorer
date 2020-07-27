@@ -23,6 +23,10 @@ export default createGlobalStyle`
     cursor: pointer;
   }
 
+  body, #root {
+    min-height: 100%;
+  }
+
   #root {
     margin: 0 auto;
     max-width: 960px;
