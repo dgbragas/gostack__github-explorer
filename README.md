@@ -10,7 +10,7 @@
 ## **:book: Summary**
 
 - [About this project](#-about-the-project)
-- [Principle libraries](#fire-principle-libraries)
+- [Principle libraries](#-principle-libraries)
 - [Prerequisites](#warning-prerequisites)
 
 
